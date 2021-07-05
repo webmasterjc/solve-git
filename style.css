@@ -17,11 +17,12 @@ body{
 section{
         font: popin;
         display: flex;
+        margin: 100px;
         
 }
 .half-width{
         width: 70%;
-       padding-right:  2%;
+       padding-right: 2%;
        padding-left: 2%;
 }
 .half-width img{
@@ -42,4 +43,10 @@ section{
 .back-img{
         background-image: url(images/top-banner.png );
         background-repeat: no-repeat;
+}
+.dream-big{
+        background-image: url(images/dream-bg.png);
+        display: flex;
+        padding-bottom: 5%;
+
 }
